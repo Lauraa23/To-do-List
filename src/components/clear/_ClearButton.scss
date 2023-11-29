@@ -1,0 +1,10 @@
+.clearButton {
+  border: none;
+  border-radius: 50%;
+  background-color: $midnight-blue;
+  color: $solitude;
+  font-size: 1.5vw;
+  &:hover {
+    filter: brightness(120%);
+  }
+}
